@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👏：iOS Developer
+- ⚡️：Objective - C、Swift
+- 😌：📚、🎬
+
