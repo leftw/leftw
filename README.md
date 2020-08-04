@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 - ⚡️：Objective - C、Swift
 - 😌：📚、🎬
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leftw)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
